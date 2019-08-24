@@ -1,0 +1,70 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+}
+/*header section end*/
+header{
+	background-color: #FFD846;
+	padding: 15px 0;
+}
+.nav_custom{
+	padding:0.5rem 0rem !important;
+}
+.manu ul li a{
+	text-align: right;
+	font-weight: 700 !important;
+	font-size: 22px !important;
+	color: #010101 !important;
+	padding: 0 35px !important;
+	transition: .5s;
+}
+.manu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.manu ul li a:hover{
+	color: #fff !important;
+}
+/*header section end*/
+/*slider section start*/
+.slider{
+	background-color: #FFD846;
+	padding-bottom: 100px;
+}
+.carousel-custom {
+    bottom: -80px !important;
+}
+.carousel-custom li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+.inspire{
+	margin-top: 50px;
+}
+.inspire h1{
+	font-weight: 700 !important;
+	font-size: 32px !important;
+	color: #010101 !important;
+	margin-bottom: 25px;
+}
+.inspire h2{
+	font-weight: 400 !important;
+	font-size: 20px !important;
+	color: #313841 !important;
+	margin-bottom: 20px;
+}
+.inspire p{
+	color: #555555;
+	margin-bottom: 20px;
+}
+.inspire ul li{
+	font-weight: 400;
+	font-size: 42px;
+	color: #010101;
+	margin-right: 40px !important;
+}
+.{}
+.{}
+.{}
+.{}
+
+/*slider section end*/
